@@ -9,7 +9,7 @@ class Calculator{
     //Function to display all the features of calculator.
     void displayFunctions(){
         cout<<endl<<endl;
-        cout<<"Welcome to Sakcee\'s Scientific Calculator"<<endl<<endl;
+        cout<<"Welcome to Scientific Calculator"<<endl<<endl;
         cout<<"Which Operation do you want to perform?"<<endl;
         cout<<"1. Addition"<<endl;
         cout<<"2. Subtraction"<<endl;
@@ -217,7 +217,7 @@ class Calculator{
     }
 
     void exitCalculator(){
-        cout<<"Thank you for using Sakchee\'s Scientific Calculator"<<endl;
+        cout<<"Thank you for using Scientific Calculator"<<endl;
         exit(0);
     }
 
